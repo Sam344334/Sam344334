@@ -1,103 +1,95 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/00/2a/3a/002a3a105086d99616e25f891b93f218.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.2);" alt="Cyberpunk Header"/>
-</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=300&section=header&text=%20&fontSize=90" width="100%" style="position: absolute; z-index: -1;" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" style="border-radius: 20px; box-shadow: 0px 10px 30px rgba(0,0,0,0.5);" alt="Cinematic Header" />
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=ELITE+FULL+STACK+ENGINEER;BUILDING+DIGITAL+EMPIRES;WINDOWS+SYSTEM+ARCHITECT;ANIME+%2B+CODE+ENTHUSIAST" alt="Typing SVG" />
-  </a>
+<br/><br/>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=CHIEF+SOFTWARE+ARCHITECT;BUILDING+THE+FUTURE;FULL+STACK+ELITE;SYSTEMS+ENGINEER" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <a href="https://samvibes.shop/" target="_blank">
-    <img src="https://img.shields.io/badge/VISIT_HQ-samvibes.shop-000000?style=for-the-badge&logo=rocket&logoColor=00F0FF&color=0d1117&labelColor=FF0055" height="40" alt="Samvibes Shop"/>
-  </a>
-</div>
+<a href="https://samvibes.shop/" target="_blank">
+  <img src="https://img.shields.io/badge/ENTER_THE_VOID-samvibes.shop-000000?style=for-the-badge&logo=rocket&logoColor=00F0FF&color=0d1117&labelColor=00F0FF" height="45" />
+</a>
 
-<br/>
+<br/><br/>
 
-<table align="center" border="0" width="100%">
+<table border="0" width="900px">
   <tr>
-    <td width="40%" align="center">
-      <img src="https://media.tenor.com/2646271960205267184/coding-anime.gif" width="100%" style="border-radius: 15px; box-shadow: 0 0 15px rgba(255, 0, 85, 0.5);"/>
-    </td>
-    <td width="60%" valign="middle">
-      <h2>⚡ システム (System Status): <span style="color:#00F0FF">ONLINE</span></h2>
-      <p>
-        <b>Origin:</b> Jalandhar, Punjab, India 🇮🇳<br>
-        <b>Mission:</b> Crafting high-performance, scalable applications with a focus on user experience and architectural elegance. I blend the creativity of frontend design with the raw logic of backend engineering.
-      </p>
-      <p>
-        🔭 <b>Currently Building:</b> The next unicorn platform.<br>
-        🌱 <b>Learning:</b> Advanced Cloud Architecture & AI Integration.<br>
-        ⚔️ <b>Motto:</b> <i>"Code is art, and I am the artist."</i>
-      </p>
-      <p>
-        <a href="https://linkedin.com/in/YourUsername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-      </p>
+    <td align="left">
+      <blockquote>
+        <h2 style="color: #00F0FF;">// ARCHITECT'S MISSION</h2>
+        <p style="font-size: 18px; line-height: 1.6;">
+          I don't just write code; I architect <b>scalable digital ecosystems</b>. Specializing in high-performance Windows systems and immersive web experiences, I bridge the gap between <b>limitless creativity</b> and <b>robust engineering</b>. My goal is to build software that defines the next decade.
+        </p>
+      </blockquote>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<div align="center">
-  <h2>🛠️ 武器庫 (The Arsenal)</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-</div>
+<h2 align="center">🛠️ THE ARSENAL</h2>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgresql,cs,dotnet,py,django,docker,aws,git,figma&perline=8" width="850" />
 
-<table align="center">
+<br/><br/>
+
+<h2 align="center">📊 PERFORMANCE METRICS</h2>
+<table align="center" border="0">
   <tr>
-    <td align="center" width="900">
-      <br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,html,css&perline=8" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,cs,dotnet,java,cpp&perline=8" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,docker,aws,git&perline=8" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,photoshop,linux,windows,androidstudio&perline=8" />
-      </a>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&icon_color=00F0FF" height="200" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" height="200" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<br/>
-
 <div align="center">
-  <h2>📊 パワーレベル (Power Level)</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF" width="850" alt="Streak Stats"/>
 </div>
 
+<br/>
+
+<h2 align="center">🏆 FEATURED DEPLOYMENTS</h2>
 <div align="center">
-  <a href="https://github.com/YourUsername">
-    <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF0055" height="180" alt="stats graph" />
+  <table border="0">
+    <tr>
+      <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=portfolio-website&theme=tokyonight&bg_color=0D1117&hide_border=true" /></td>
+      <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=e-commerce-platform&theme=tokyonight&bg_color=0D1117&hide_border=true" /></td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<h2 align="center">🌟 COSMIC ACTIVITY</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117&color=00F0FF&line=00F0FF" width="900" />
+
+<br/><br/>
+
+<h2 align="center">💬 GLOBAL CONNECT</h2>
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/SECURE_CHANNEL-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
   </a>
-  
-  <a href="https://github.com/YourUsername">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF0055" height="180" alt="languages graph" />
+  <a href="https://linkedin.com/in/YourUsername">
+    <img src="https://img.shields.io/badge/PROFESSIONAL_INTEL-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://twitter.com/YourUsername">
+    <img src="https://img.shields.io/badge/INTEL_FEED-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"/>
   </a>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF0055&ring=00F0FF&fire=FF0055&currStreakNum=00F0FF" alt="streak stats"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
 
-<br/>
+<p align="center" style="color: #444;">
+  <i>ESTABLISHED 2024 • SYSTEM_STABLE • ARCHITECTING_REALITY</i><br/>
+  <img src="https://profile-counter.glitch.me/YourUsername/count.svg" alt="Visitor Count" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117&color=00F0FF&line=FF0055" width="100%" alt="activity graph">
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="border-radius:10px;">
-  <h3>🤝 <a href="https://samvibes.shop/" style="text-decoration: none; color: #00F0FF;">Ready to Build the Impossible?</a></h3>
-  <p>© 2024 Your Name | Full Stack Engineer</p>
 </div>
