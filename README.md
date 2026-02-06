@@ -1,95 +1,107 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=300&section=header&text=%20&fontSize=90" width="100%" style="position: absolute; z-index: -1;" />
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" style="border-radius: 20px; box-shadow: 0px 10px 30px rgba(0,0,0,0.5);" alt="Cinematic Header" />
+<img src="https://raw.githubusercontent.com/Mayank-H/Mayank-H/main/assets/anime-girl-coding.gif" width="100%" style="border-radius: 15px; box-shadow: 0px 10px 40px rgba(0, 240, 255, 0.15);" alt="Hero Banner" />
 
 <br/><br/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=CHIEF+SOFTWARE+ARCHITECT;BUILDING+THE+FUTURE;FULL+STACK+ELITE;SYSTEMS+ENGINEER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=700&size=45&color=00F0FF&center=true&vCenter=true&width=700&height=80&lines=SREE:+THE+AI+ARCHITECT;PIONEERING+DDC+MODELS;FULL+STACK+ENGINEER;BUILDING+THE+FUTURE" alt="Typing SVG" />
 </h1>
 
-<a href="https://samvibes.shop/" target="_blank">
-  <img src="https://img.shields.io/badge/ENTER_THE_VOID-samvibes.shop-000000?style=for-the-badge&logo=rocket&logoColor=00F0FF&color=0d1117&labelColor=00F0FF" height="45" />
-</a>
+<div align="center">
+  <a href="https://huggingface.co/DevsDoCode" target="_blank">
+    <img src="https://img.shields.io/badge/AI_MODELS-DDC_VORTEX-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000" height="35" />
+  </a>
+  <a href="https://github.com/SreejanPersonal/JARVIS-AGI" target="_blank">
+    <img src="https://img.shields.io/badge/SYSTEM_AVA-ONLINE-00F0FF?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000" height="35" />
+  </a>
+</div>
 
-<br/><br/>
+<br/>
 
-<table border="0" width="900px">
+<table border="0" width="850px">
   <tr>
-    <td align="left">
-      <blockquote>
-        <h2 style="color: #00F0FF;">// ARCHITECT'S MISSION</h2>
-        <p style="font-size: 18px; line-height: 1.6;">
-          I don't just write code; I architect <b>scalable digital ecosystems</b>. Specializing in high-performance Windows systems and immersive web experiences, I bridge the gap between <b>limitless creativity</b> and <b>robust engineering</b>. My goal is to build software that defines the next decade.
-        </p>
-      </blockquote>
+    <td align="center">
+      <p style="font-size: 20px; font-family: 'Segoe UI', sans-serif; letter-spacing: 1px; color: #888;">
+        <i>"Architecting emotionally intelligent ecosystems and high-performance digital infrastructure. Turning raw logic into luxury user experiences."</i>
+      </p>
+      <hr width="150px" style="border: 1px solid #00F0FF;" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<h2 align="center">🛠️ THE ARSENAL</h2>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgresql,cs,dotnet,py,django,docker,aws,git,figma&perline=8" width="850" />
-
-<br/><br/>
-
-<h2 align="center">📊 PERFORMANCE METRICS</h2>
-<table align="center" border="0">
+<table align="center" border="0" cellpadding="10">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&icon_color=00F0FF" height="200" alt="GitHub Stats" />
+    <td width="33%" align="center">
+      <h3 style="color: #00F0FF;">⚡ FRONTEND</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,figma" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" height="200" alt="Top Languages" />
+    <td width="33%" align="center">
+      <h3 style="color: #FF0055;">⚙️ BACKEND</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,py" />
+    </td>
+    <td width="33%" align="center">
+      <h3 style="color: #7000FF;">🧠 ARTIFICIAL INTEL</h3>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,cs,java,docker" />
     </td>
   </tr>
 </table>
 
+<br/>
+
+<h2 align="center">📈 SYSTEM ANALYTICS</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF" width="850" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SreejanPersonal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&icon_color=00F0FF" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreejanPersonal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" height="185" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SreejanPersonal&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF" width="830" />
 </div>
 
 <br/>
 
-<h2 align="center">🏆 FEATURED DEPLOYMENTS</h2>
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=portfolio-website&theme=tokyonight&bg_color=0D1117&hide_border=true" /></td>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=e-commerce-platform&theme=tokyonight&bg_color=0D1117&hide_border=true" /></td>
-    </tr>
-  </table>
-</div>
+<h2 align="center">🏆 FEATURED VENTURES</h2>
+<table border="0" align="center" width="850px">
+  <tr>
+    <td align="center">
+      <a href="https://huggingface.co/DevsDoCode/vortex">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreejanPersonal&repo=JARVIS-AGI&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00F0FF" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SreejanPersonal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreejanPersonal&repo=SreejanPersonal&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00F0FF" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <h2 align="center">🌟 COSMIC ACTIVITY</h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117&color=00F0FF&line=00F0FF" width="900" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SreejanPersonal&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117&color=00F0FF&line=00F0FF" width="900" style="border-radius: 10px;" />
 
 <br/><br/>
 
-<h2 align="center">💬 GLOBAL CONNECT</h2>
+<h2 align="center">📡 ESTABLISH CONNECTION</h2>
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/SECURE_CHANNEL-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
-  </a>
-  <a href="https://linkedin.com/in/YourUsername">
-    <img src="https://img.shields.io/badge/PROFESSIONAL_INTEL-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
-  </a>
-  <a href="https://twitter.com/YourUsername">
-    <img src="https://img.shields.io/badge/INTEL_FEED-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"/>
-  </a>
+  <a href="https://linkedin.com/in/devsdocode"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
+  <a href="https://x.com/DevsDoCode"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" /></a>
+  <a href="https://discord.gg/4gGcqsWWde"><img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" /></a>
+  <a href="https://www.youtube.com/@DevsDoCode"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" /></a>
 </div>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
-
-<p align="center" style="color: #444;">
-  <i>ESTABLISHED 2024 • SYSTEM_STABLE • ARCHITECTING_REALITY</i><br/>
-  <img src="https://profile-counter.glitch.me/YourUsername/count.svg" alt="Visitor Count" />
+<hr width="100%" style="border: 0.5px solid #222;" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SreejanPersonal&color=00F0FF&style=flat-square" />
+</p>
+<p align="center" style="color: #444; font-family: monospace;">
+  EXECUTED BY SREE | © 2026 DEVS_DO_CODE | ALL_SYSTEMS_OPTIMAL
 </p>
 
 </div>
