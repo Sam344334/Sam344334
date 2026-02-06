@@ -1,160 +1,117 @@
-<!--
-  README Template
-  Remove or edit comments as you wish.
-  Update all "YourUsername" and "your.email@example.com" placeholders with your actual info.
-  Enjoy!
--->
-
-<!-- Main Title & Subtitle -->
-<h1 align="center">Full Stack Developer</h1>
-<p align="center">
-  <em>Building Digital Experiences</em>
-</p>
-
-<!-- Animated Typing Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Web+Developer;Windows+App+Creator;UI%2FUX+Designer;Full+Stack+Engineer" />
-</p>
-
-<!-- Developer Animation & Personal Link -->
 <div align="center">
-  <img src="https://i.imgur.com/IgjlGQB.gif" alt="Developer animation" width="300"/>
-  <h2>🔥 <a href="https://samvibes.shop/" target="_blank">samvibes.shop</a> 🔥</h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Full%20Stack%20Architect&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future,%20one%20pixel%20at%20a%20time&descSize=20&descAlignY=60" width="100%"/>
+  
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Windows+Desktop+Expert;UI%2FUX+Enthusiast;Open+Source+Contributor" />
+
+  <h3>🔥 Check out my work: <a href="https://samvibes.shop/" target="_blank">samvibes.shop</a> 🔥</h3>
 </div>
 
-<!-- What I Do Section -->
-<div align="center">
-  <h2>👨‍💻 What I Do</h2>
-</div>
+---
 
+## 🧑‍💻 About Me
 <table border="0">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%"/>
+    <td width="60%">
+      <p>I'm a passionate <b>Full Stack Developer</b> with a deep love for building scalable web applications and high-performance desktop software. My focus lies in creating seamless user experiences and robust backend architectures.</p>
+      <p>
+        ⚡ <b>Current Focus:</b> Advancing in Microservices and Cloud Native Apps<br/>
+        🌱 <b>Learning:</b> Rust and Advanced System Design<br/>
+        💬 <b>Ask me about:</b> React, .NET Core, and Database Architecture
+      </p>
     </td>
-    <td width="50%">
-      <h3>🌐 I Build Complete Websites</h3>
-      <ul>
-        <li>✨ Eye-catching, responsive frontends</li>
-        <li>⚙️ Powerful, scalable backends</li>
-        <li>🔒 Secure user authentication</li>
-        <li>💾 Efficient database design</li>
-        <li>🚀 Performance optimization</li>
-        <li>📱 Cross-platform compatibility</li>
-        <li>🔍 SEO-friendly architecture</li>
-      </ul>
+    <td width="40%" align="center">
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="280px" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
 
-<br>
+---
 
-<!-- Tech Stack & Tools -->
-<div align="center">
-  <h2>⚡ Tech Stack & Tools ⚡</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%">
-</div>
+## 🛠️ Tech Stack & Specialized Tools
 
-<table>
-  <tr>
-    <td>
-      <h3 align="center">💫 Frontend Magic</h3>
-      <p align="center">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <img src="https://skillicons.dev/icons?i=vue,angular,sass,tailwind" alt="Frontend" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="center">🔮 Backend Wizardry</h3>
-      <p align="center">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-        <img src="https://skillicons.dev/icons?i=express,django,php,laravel,graphql" alt="Backend" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="center">🗄️ Database Mastery</h3>
-      <p align="center">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
-        <img src="https://skillicons.dev/icons?i=postgres,firebase,redis" alt="Databases" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="center">🖥️ Windows Development</h3>
-      <p align="center">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-        <img src="https://user-images.githubusercontent.com/74038190/238201075-5f0e1392-2a18-4b6a-8a9a-d4962af1b8a9.gif" alt="dotnet" width="60" />
-        <img src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- Projects Section -->
-<div align="center">
-  <h2>🏆 My Projects 🏆</h2>
-</div>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=portfolio-website&theme=radical&border_color=ff428e&border_radius=10&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" alt="Portfolio Website"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=e-commerce-platform&theme=radical&border_color=ff428e&border_radius=10&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" alt="E-commerce Platform"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=windows-utility-app&theme=radical&border_color=ff428e&border_radius=10&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" alt="Windows Utility App"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=real-time-dashboard&theme=radical&border_color=ff428e&border_radius=10&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" alt="Real-time Dashboard"/>
-</div>
-
-<!-- GitHub Analytics -->
-<div align="center">
-  <h2>📊 GitHub Analytics 📊</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%">
-</div>
-
-<p align="center">
-  <a href="https://github.com/YourUsername">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourUsername&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true&border_radius=20&rank_icon=github" />
+### 🌐 Frontend & Web Design
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,sass,figma" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&hide_border=false&border_radius=10&background=0D1117&stroke=ff428e&fire=ff428e&ring=ff428e" alt="GitHub Streak" />
+### 🔮 Backend & Server-Side
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,php,laravel,graphql,dotnet" />
+  </a>
 </p>
 
-<!-- Activity Graph -->
+### 🗄️ Database & Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,aws,docker" />
+  </a>
+</p>
+
+### 🖥️ Windows & Desktop Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
+  </p>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 <div align="center">
-  <h2>🌟 My Coding Activity 🌟</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=redical&hide_border=true&area=true" width="95%" alt="activity graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true&border_radius=10" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&border_radius=10" height="180px" />
 </div>
 
-<!-- Connect With Me -->
+<br/>
+
 <div align="center">
-  <h2>💬 Connect With Me 💬</h2>
-  <a href="https://samvibes.shop/">
-    <img height="60px" src="https://img.shields.io/badge/My_Website-samvibes.shop-ff69b4?style=for-the-badge&logo=GoogleChrome&logoColor=white&labelColor=black"/>
-  </a>
-  <br>
-  <a href="mailto:your.email@example.com">
-    <img height="50px" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YourUsername">
-    <img height="50px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/YourUsername">
-    <img height="50px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/YourServer">
-    <img height="50px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&border_radius=10" width="95%" />
 </div>
 
-<!-- Visitor Count -->
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=react-dark&hide_border=true&area=true" width="95%" />
+</div>
+
+---
+
+## 🏆 Featured Projects
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=portfolio-website&theme=radical" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=e-commerce-platform&theme=radical" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=windows-utility-app&theme=radical" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=real-time-dashboard&theme=radical" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🤝 Let's Connect
+<div align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YourUsername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/YourUsername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://discord.gg/YourServer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://samvibes.shop/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/YourUsername/count.svg" alt="Visitor Count" />
+</div>
+
+<div align="center">
+  <p><i>Design inspired by the code, fueled by coffee. ☕</i></p>
 </div>
